@@ -169,9 +169,19 @@ Entre elas:
 
 ### Registros visuais
 
-Os prints e registros das interações com a IA serão adicionados nesta seção.
+#### 🚀 Primeira interação com o Lovable
 
-> 📌 Os registros visuais fazem parte da documentação do processo de Vibe Coding.
+O primeiro prompt apresentou o contexto, problema, público-alvo e objetivo do MVP.
+
+![Primeira interação com o Lovable](./lovable-primeira-interacao.png)
+
+#### 🔧 Revisão do MVP
+
+Nesta etapa, o protótipo foi revisado de acordo com o PRD original. Foram removidas funcionalidades que estavam fora do escopo do MVP.
+
+![Revisão do MVP](./lovable-revisao-mvp.png)
+
+> 📌 Esses registros mostram parte do processo de desenvolvimento utilizando Vibe Coding e interação com Inteligência Artificial.
 
 ## 🌐 Aplicação publicada
 
